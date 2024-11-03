@@ -1,0 +1,14 @@
+E:\VS Projects\Maha Sangram\Maha Sangram\bin\Debug\net8.0\Maha Sangram.exe
+E:\VS Projects\Maha Sangram\Maha Sangram\bin\Debug\net8.0\Maha Sangram.deps.json
+E:\VS Projects\Maha Sangram\Maha Sangram\bin\Debug\net8.0\Maha Sangram.runtimeconfig.json
+E:\VS Projects\Maha Sangram\Maha Sangram\bin\Debug\net8.0\Maha Sangram.dll
+E:\VS Projects\Maha Sangram\Maha Sangram\bin\Debug\net8.0\Maha Sangram.pdb
+E:\VS Projects\Maha Sangram\Maha Sangram\obj\Debug\net8.0\Maha Sangram.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Projects\Maha Sangram\Maha Sangram\obj\Debug\net8.0\Maha Sangram.AssemblyInfoInputs.cache
+E:\VS Projects\Maha Sangram\Maha Sangram\obj\Debug\net8.0\Maha Sangram.AssemblyInfo.cs
+E:\VS Projects\Maha Sangram\Maha Sangram\obj\Debug\net8.0\Maha Sangram.csproj.CoreCompileInputs.cache
+E:\VS Projects\Maha Sangram\Maha Sangram\obj\Debug\net8.0\Maha Sangram.dll
+E:\VS Projects\Maha Sangram\Maha Sangram\obj\Debug\net8.0\refint\Maha Sangram.dll
+E:\VS Projects\Maha Sangram\Maha Sangram\obj\Debug\net8.0\Maha Sangram.pdb
+E:\VS Projects\Maha Sangram\Maha Sangram\obj\Debug\net8.0\Maha Sangram.genruntimeconfig.cache
+E:\VS Projects\Maha Sangram\Maha Sangram\obj\Debug\net8.0\ref\Maha Sangram.dll
